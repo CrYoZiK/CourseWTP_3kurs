@@ -1,0 +1,110 @@
+﻿  Board.cpp
+C:\CourseWTP\CourseWTP\CourseWTP\Board.cpp(132,79): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Board.cpp(132,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Board.cpp(158,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Board.cpp(159,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Board.cpp(190,9): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Board.cpp(191,9): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Cap.cpp
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(5,17): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(6,17): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(107,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(107,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(135,66): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(135,55): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(135,45): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(135,35): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(137,53): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\CourseWTP\CourseWTP\CourseWTP\Cap.cpp(137,43): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Comon.cpp
+  InfoPanel.cpp
+  Judge.cpp
+  main.cpp
+  Notifier.cpp
+  Player.cpp
+  Создание кода
+  92 of 170 functions (54.1%) were compiled, the rest were copied from previous compilation.
+    21 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CourseWTP.vcxproj -> C:\CourseWTP\CourseWTP\Release\CourseWTP.exe
