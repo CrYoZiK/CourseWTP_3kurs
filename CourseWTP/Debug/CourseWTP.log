@@ -1,5 +1,5 @@
-﻿  Board.cpp
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(132,79): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+﻿  Notifier.cpp
+C:\CourseWTP\CourseWTP\CourseWTP\Notifier.cpp(122,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
           with
           [
               T=int
@@ -8,7 +8,7 @@ C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(132,79): war
           [
               T=float
           ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(132,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\CourseWTP\CourseWTP\CourseWTP\Notifier.cpp(122,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
           with
           [
               T=int
@@ -17,166 +17,4 @@ C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(132,67): war
           [
               T=float
           ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(160,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(161,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(198,9): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(199,9): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(252,19): warning C4244: =: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(253,16): warning C4244: =: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(263,16): warning C4244: =: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(264,19): warning C4244: =: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(274,19): warning C4244: =: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(275,16): warning C4244: =: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(285,16): warning C4244: =: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(286,19): warning C4244: =: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-  Button.cpp
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Button.cpp(45,63): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
-          with
-          [
-              T=int
-          ]
-          and
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Button.cpp(45,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
-          with
-          [
-              T=int
-          ]
-          and
-          [
-              T=float
-          ]
-  Cap.cpp
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(5,17): warning C4244: =: преобразование "int" в "T", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(6,17): warning C4244: =: преобразование "int" в "T", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(106,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
-          with
-          [
-              T=int
-          ]
-          and
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(106,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
-          with
-          [
-              T=int
-          ]
-          and
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(143,66): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(143,55): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(143,45): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(143,35): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(145,53): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Cap.cpp(145,43): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-  InfoPanel.cpp
-  Judge.cpp
-  Notifier.cpp
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Notifier.cpp(121,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
-          with
-          [
-              T=int
-          ]
-          and
-          [
-              T=float
-          ]
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Notifier.cpp(121,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
-          with
-          [
-              T=int
-          ]
-          and
-          [
-              T=float
-          ]
-  Player.cpp
-  Создание кода...
-C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\CourseWTP\Board.cpp(106): warning C4172: возвращение адреса локальной или временной переменной : Texture
-  CourseWTP.vcxproj -> C:\Users\cryoz\Documents\GitHub\CourseWTP_3kurs\Debug\CourseWTP.exe
+  CourseWTP.vcxproj -> C:\CourseWTP\CourseWTP\Debug\CourseWTP.exe

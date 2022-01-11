@@ -4,7 +4,8 @@
 Notifier::Notifier(String FontFileName) :
 	m_nCurrentHoop(1),
 	m_Text(NULL),
-	m_TextCurrentHoop(NULL)
+	m_TextCurrentHoop(NULL),
+	m_TextWinnerIs(NULL)
 {
 	if (m_Font.loadFromFile(FontFileName))
 	{

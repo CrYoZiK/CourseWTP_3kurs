@@ -15,7 +15,7 @@ using namespace sf;
 
 int main()
 {
-	sf::RenderWindow window(sf::VideoMode(600, 802), "SFMLworks");
+	sf::RenderWindow window(sf::VideoMode(600, 802), "TAK - TIKL");
 	window.setFramerateLimit(60);
 	Vector2f size;
 	size.x = 150;
